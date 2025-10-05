@@ -1,0 +1,3 @@
+# MaxInvPlugin v2.3.1
+
+Badges + Beschreibung hier...

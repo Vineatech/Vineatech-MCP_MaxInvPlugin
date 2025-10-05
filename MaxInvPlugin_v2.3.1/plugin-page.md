@@ -1,0 +1,1 @@
+## MaxInvPlugin Beschreibung für Modrinth/Spigot
