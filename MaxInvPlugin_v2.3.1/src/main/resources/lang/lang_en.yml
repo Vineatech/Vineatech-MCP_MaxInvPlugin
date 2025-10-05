@@ -1,0 +1,9 @@
+gui:
+  title: "Bag"
+  rest_summary: "Stored more…"
+
+msg:
+  open_hint: "Put items into the GUI to store them. Take items out to withdraw."
+  saved: "Contents saved."
+  auto_store: "No space – stored %amount%x %material% into the bag."
+  only_players: "Only players can use /bag."
