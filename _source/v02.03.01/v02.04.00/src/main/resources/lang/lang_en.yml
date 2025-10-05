@@ -1,0 +1,11 @@
+gui:
+  base: Bag
+  page_title: Bag (Page %page%/%pages%)
+  page_label: Page %page%/%pages%
+  prev: ◀ Previous
+  next: Next ▶
+msg:
+  open_hint: Put items into the GUI ...
+  saved: Contents saved.
+  auto_store: No space – stored %amount%x %material% into the bag.
+  only_players: Only players can use /bag.
