@@ -1,0 +1,8 @@
+name: MaxInvPlugin
+version: 2.0
+main: de.maxinv.Main
+api-version: 1.21
+commands:
+  bag:
+    description: Open bag
+    usage: /bag
