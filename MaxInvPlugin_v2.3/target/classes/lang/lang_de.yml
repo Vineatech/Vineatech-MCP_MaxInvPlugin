@@ -1,0 +1,10 @@
+
+gui:
+  title: "Tasche"
+  rest_summary: "Weitere eingelagert…"
+
+msg:
+  open_hint: "Lege Items ins GUI, um sie zu speichern. Nimm Items heraus, um sie zu entnehmen."
+  saved: "Inhalte gespeichert."
+  auto_store: "Kein Platz – %amount%x %material% ins Lager gelegt."
+  only_players: "Nur Spieler können /bag benutzen."

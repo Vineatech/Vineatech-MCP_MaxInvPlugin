@@ -1,0 +1,6 @@
+
+language: de
+auto-store-if-full: true
+auto-store-message: true
+show-open-hint: true
+show-save-message: true

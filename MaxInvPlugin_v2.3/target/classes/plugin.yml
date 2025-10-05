@@ -1,0 +1,9 @@
+
+name: MaxInvPlugin
+version: 2.3
+main: de.maxinv.Main
+api-version: "1.21"
+commands:
+  bag:
+    description: Öffnet deine Tasche (/bag)
+    usage: /bag
