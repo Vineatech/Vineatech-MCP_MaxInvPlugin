@@ -1,0 +1,9 @@
+name: MaxInvPlugin
+version: 2.3.2
+main: de.maxinv.Main
+api-version: 1.21
+description: "Automatically stores selected materials into a virtual bag"
+commands:
+  bag:
+    description: "Open your virtual bag"
+    usage: /bag

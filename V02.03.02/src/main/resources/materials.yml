@@ -1,0 +1,21 @@
+auto-store:
+  - STONE
+  - COBBLESTONE
+  - DIRT
+  - GRASS_BLOCK
+  - SAND
+  - GRAVEL
+  - OAK_LOG
+  - SPRUCE_LOG
+  - BIRCH_LOG
+  - ACACIA_LOG
+  - DARK_OAK_LOG
+  - ANDESITE
+  - DIORITE
+  - GRANITE
+  - COAL
+  - IRON_ORE
+  - WHEAT_SEEDS
+  - CARROT
+  - POTATO
+  - OAK_SAPLING
